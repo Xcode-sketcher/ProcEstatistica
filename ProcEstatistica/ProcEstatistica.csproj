@@ -4,6 +4,19 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        
+        <PackageId>ProcEstatistica</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>xcode-sketcher</Authors>
+        <Description>Biblioteca de procedimentos estatísticos: amplitude, média, desvio, frequência acumulada e APIs fluentes.</Description>
+        <PackageTags>estatística;statistics;medidas;dispersao;media;desvio;amplitude</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/xcode-sketcher/ProcEstatistica</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
