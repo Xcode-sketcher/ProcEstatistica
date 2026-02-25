@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProcEstatistica.Test/ProcEstatistica.Test.csproj" />
+  <Project Path="ProcEstatistica/ProcEstatistica.csproj" />
+</Solution>
